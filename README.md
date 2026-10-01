@@ -23,7 +23,7 @@
 - 🏦 Mid-level Backend Software Engineer **@ ACT DIGITAL x BTG Pactual**
 - 💳 My day to day is to build and evolve **fintech backend services** — scalable, cache-backed and event-driven
 - 🤝 Open to collaborating on **games, mods or backend services**
-- 🌱 Currently learning <a> </a> <img src="https://img.shields.io/badge/-Unity-222C37?logo=unity&logoColor=white&style=flat" alt="Unity" /> <a> <img src="https://img.shields.io/badge/-Godot-478CBF?logo=godotengine&logoColor=white&style=flat" alt="Godot" /> </a>
+- 🌱 Currently learning <img src="https://img.shields.io/badge/-Unity-222C37?logo=unity&logoColor=white&style=flat" alt="Unity" /> <img src="https://img.shields.io/badge/-Godot-478CBF?logo=godotengine&logoColor=white&style=flat" alt="Godot" />
 
 ---
 
