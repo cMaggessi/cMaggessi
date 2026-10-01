@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=0A4FD6&center=true&vCenter=true&width=720&height=60&lines=I+write+Java+%26+Kotlin+for+a+living;.. and I really love games :)" alt="Hello there! My name is Caio Maggessi" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1200&color=0A4FD6&center=true&vCenter=true&width=720&height=60&lines=I+write+Java+%26+Kotlin+for+a+living;..+and+I+really+love+games+%3A%29" alt="Hello there! My name is Caio Maggessi" />
 </p>
 
 <h3 align="center">Connect with me</h3>
