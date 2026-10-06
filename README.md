@@ -23,7 +23,7 @@
 - 🏦 Mid-level Backend Software Engineer **@ ACT DIGITAL x BTG Pactual**
 - 💳 My day to day is to build and evolve **fintech backend services** — scalable, cache-backed and event-driven
 - 🤝 Open to collaborating on **games, mods or backend services**
-- 🌱 Currently learning <a> </a> <img src="https://img.shields.io/badge/-Unity-222C37?logo=unity&logoColor=white&style=flat" alt="Unity" /> <a> <img src="https://img.shields.io/badge/-Godot-478CBF?logo=godotengine&logoColor=white&style=flat" alt="Godot" /> </a>
+- 🌱 Currently learning <img src="https://img.shields.io/badge/-Unity-222C37?logo=unity&logoColor=white&style=flat" alt="Unity" /> <img src="https://img.shields.io/badge/-Godot-478CBF?logo=godotengine&logoColor=white&style=flat" alt="Godot" />
 
 ---
 
@@ -86,5 +86,5 @@
   <a href="https://notbyai.fyi/#not-by-ai-mission">
     <img width="131" alt="Written-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/user-attachments/assets/847dd474-1d1d-462a-a115-d162e544f714" align="right" />
   </a>
-  <i> Thanks for visting my profile :D ❤️ </i>
+  <i> Thanks for visiting my profile :D ❤️ </i>
 </p>
