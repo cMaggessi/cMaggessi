@@ -86,5 +86,5 @@
   <a href="https://notbyai.fyi/#not-by-ai-mission">
     <img width="131" alt="Written-By-Human-Not-By-AI-Badge-black@2x" src="https://github.com/user-attachments/assets/847dd474-1d1d-462a-a115-d162e544f714" align="right" />
   </a>
-  <i> Thanks for visting my profile :D ❤️ </i>
+  <i> Thanks for visiting my profile :D ❤️ </i>
 </p>
